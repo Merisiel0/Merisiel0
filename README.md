@@ -1,5 +1,5 @@
 ## -> About Me:
-I'm currently working on my own game engine, using Vulkan and SDL2.<br>I'm learning a lot about 2D and 3D graphics rendering along with Events, Inputs and Entity Component Systems.
+Currently working on my own game engine, using Vulkan and SDL2.
 
 ## -> Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aymerik-blais-3a8183334) 
