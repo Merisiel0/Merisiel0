@@ -1,7 +1,8 @@
-## -> About Me:
+# Hallo!
+---
 Currently working on my own game engine, using Vulkan and SDL2.
 
-## -> Socials:
+## Contacts:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aymerik-blais-3a8183334) 
 
 ## -> Tech Stack:
