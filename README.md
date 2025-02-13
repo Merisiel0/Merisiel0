@@ -2,8 +2,8 @@
 I'm a software engineer student at ETS with a passion for graphics rendering.
 
 ### Current project:
-* A vulkan rendering engine
-  > Using vulkan, sdl3, entt and a couple other libraries, I'm working on rendering 3D models with PBR materials and accurate lighting. My goal is to get to ray tracing someday!
+- A vulkan rendering engine  
+  Using vulkan, sdl3, entt and a couple other libraries, I'm working on rendering 3D models with PBR materials and accurate lighting. My goal is to get to ray tracing someday!
 
 ### Contacts:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aymerik-blais-3a8183334) 
