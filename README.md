@@ -2,6 +2,8 @@
 I'm a software engineer student at ETS with a passion for graphics rendering.
 
 ### Current project:
+- **Linux Distribution**  
+  Starting from Arch, I'm currently configuring my distro with Hyprland and Eww. The goal is to support HDR.
 - **A vulkan rendering engine**  
   Using vulkan, sdl3, entt and a couple other libraries, I'm working on rendering 3D models with PBR materials and accurate lighting. My goal is to get to ray tracing someday!
 
