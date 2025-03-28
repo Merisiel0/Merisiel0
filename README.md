@@ -1,7 +1,7 @@
 ## Hallo!
-I'm a software engineer student at ETS with a passion for graphics rendering.
+I'm a software engineer student at ETS with a passion for graphics rendering and linux.
 
-### Current project:
+### Current projects:
 - **Linux Distribution**  
   Starting from Arch, I'm currently configuring my distro with Hyprland and Eww. The goal is to support HDR.
 - **A vulkan rendering engine**  
