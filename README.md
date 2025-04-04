@@ -6,7 +6,7 @@ I'm a software engineer student at ETS with a passion for graphics rendering and
 ### Current projects:
 - **A vulkan rendering engine**  
   Using vulkan, sdl3, entt and a couple other libraries, I'm working on rendering 3D models with PBR materials and accurate lighting. My goal is to get to ray tracing someday!
-  <br>
+  <br><br>
   [![Sphere](https://img.shields.io/badge/Sphere-Game%20Engine-darkgreen?style=for-the-badge)](https://github.com/Merisiel0/snstc)
   
 <br>
