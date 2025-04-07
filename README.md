@@ -17,6 +17,6 @@ I'm a software engineer student at ETS with a passion for graphics rendering and
 ---
 
 ### Contacts:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aymerik%20Blais-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aymerik-blais-3a8183334/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aymerik%20Blais-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aymerik-blais/)
 <br>
 [![Email](https://img.shields.io/badge/Email-merisiel01%40gmail.com-cyan?style=for-the-badge)](mailto:merisiel01@gmail.com)
