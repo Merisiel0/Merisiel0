@@ -13,6 +13,7 @@ I'm a software engineer student at ETS with a passion for graphics rendering and
 
 - **Singularity**  
   I wanted glsl shaders as my wallpaper on Linux Mint, turns out Cinnamon doesn't support that. So I repurposed it into a shadertoy shader displayer. Enjoy!
+  [![Sphere](https://img.shields.io/badge/Singularity-Shader%20Displayer-purple?style=for-the-badge)](https://github.com/Merisiel0/Singularity)
   
 <br>
 
