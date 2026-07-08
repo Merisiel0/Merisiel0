@@ -1,5 +1,5 @@
 ## Hallo!
-I'm a software engineer student with a passion for graphics rendering and linux.
+I'm a software engineer student with a passion for low-level systems, real-time graphics and game development.
 
 Do note I self host my stuff. Most of the repos on this account have either been deleted or moved somewhere else.
 Feel free to explore though!
